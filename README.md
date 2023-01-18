@@ -3,7 +3,10 @@
 - 👀 I’m interested in using my giftings to be a blessing to those around me.
 - 🌱 I’m currently teaching myself React Native to develop mobile applications.
 - 💞️ I’m looking to collaborate on anything - but have a keen interest in leveraging tech to help our senior population.
-- 📫 How to reach me: 
+- 📫 Reach me at: jayandrego@gmail.com
+
+Personal Portfolio site:
+https://callmelazarus.gitlab.io/
 
 
 Tech:
