@@ -1,20 +1,10 @@
 # 👋 Hey, I'm Jay!
 **Software Engineer · Licensed Structural Engineer · Los Angeles, CA**
 
-Personal Portfolio site:
-https://callmelazarus.gitlab.io/
-
-
----
-
 <!-- origin story -->
 > I started my career designing the physical world — as a licensed structural engineer designing the structures people live and work in. Now I build the digital structures people live and work *through*.
 >
 > From one of humanity's oldest engineering disciplines... to its youngest.
-
----
-
-### // stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-EEEDFE?style=flat&logo=typescript&logoColor=3C3489)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=flat&logo=javascript&logoColor=633806)
@@ -27,13 +17,7 @@ https://callmelazarus.gitlab.io/
 
 ---
 
-### // github stats
-
-![](./profile-summary-card-output/theme_default/0-profile-details.svg)
-![](./profile-summary-card-output/theme_default/1-repos-per-language.svg)
-![](./profile-summary-card-output/theme_default/2-most-commit-language.svg)
-![](./profile-summary-card-output/theme_default/3-stats.svg)
-![](./profile-summary-card-output/theme_default/4-productive-time.svg)
+![](./profile-summary-card-output/prussian/0-profile-details.svg)
 
 ---
 
@@ -41,7 +25,7 @@ https://callmelazarus.gitlab.io/
 
 | 📷 Photography | 🎨 Art | 🏀 Sports |
 |---|---|---|
-| Event and street photography | The other kind of rendering | LA born and bred |
+| @gophotosocal | The other kind of rendering | LA born and bred |
 
 ---
 
