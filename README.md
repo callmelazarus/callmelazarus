@@ -1,16 +1,50 @@
-# 👋 Hi, my name is Jay!
+# 👋 Hey, I'm Jay!
+**Software Engineer · Licensed Structural Engineer · Los Angeles, CA**
 
 Personal Portfolio site:
 https://callmelazarus.gitlab.io/
 
-Skillset:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+---
 
+<!-- origin story -->
+> I started my career designing the physical world — as a licensed structural engineer designing the structures people live and work in. Now I build the digital structures people live and work *through*.
+>
+> From one of humanity's oldest engineering disciplines... to its youngest.
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+---
 
+### // stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-EEEDFE?style=flat&logo=typescript&logoColor=3C3489)
+![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=flat&logo=javascript&logoColor=633806)
+![Python](https://img.shields.io/badge/Python-E1F5EE?style=flat&logo=python&logoColor=085041)
+![React](https://img.shields.io/badge/React-E6F1FB?style=flat&logo=react&logoColor=0C447C)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FAEEDA?style=flat&logo=awslambda&logoColor=633806)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-E6F1FB?style=flat&logo=amazondynamodb&logoColor=0C447C)
+![Supabase](https://img.shields.io/badge/Supabase-E1F5EE?style=flat&logo=supabase&logoColor=085041)
+![Vercel](https://img.shields.io/badge/Vercel-F1EFE8?style=flat&logo=vercel&logoColor=2C2C2A)
+
+---
+
+### // github stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### // beyond the terminal
+
+| 📷 Photography | 🎨 Art | 🏀 Sports |
+|---|---|---|
+| Event and street photography | The other kind of rendering | LA born and bred |
+
+---
+
+### // currently
+
+Aiming to build both my knowledge and side projects using Claude :)
 
 
 <!---
