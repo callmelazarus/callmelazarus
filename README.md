@@ -29,8 +29,11 @@ https://callmelazarus.gitlab.io/
 
 ### // github stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](./profile-summary-card-output/theme_default/0-profile-details.svg)
+![](./profile-summary-card-output/theme_default/1-repos-per-language.svg)
+![](./profile-summary-card-output/theme_default/2-most-commit-language.svg)
+![](./profile-summary-card-output/theme_default/3-stats.svg)
+![](./profile-summary-card-output/theme_default/4-productive-time.svg)
 
 ---
 
