@@ -1,10 +1,10 @@
-# 👋 Hey, I'm Jay!
-**Software Engineer · Licensed Structural Engineer · Los Angeles, CA**
-
-<!-- origin story -->
-> I started my career designing the physical world — as a licensed structural engineer designing the structures people live and work in. Now I build the digital structures people live and work *through*.
->
-> From one of humanity's oldest engineering disciplines... to its youngest.
+```
+git log --oneline
+> a3f9c12 init: added 'callmelazarus' to the world
+> b7e2d45 feat: switched from structural to software engineering
+> d4e7a11 feat: leveling up in TypeScript and system design
+> c1d8f90 fix: still debugging life
+```
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-EEEDFE?style=flat&logo=typescript&logoColor=3C3489)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=flat&logo=javascript&logoColor=633806)
@@ -15,23 +15,8 @@
 ![Supabase](https://img.shields.io/badge/Supabase-E1F5EE?style=flat&logo=supabase&logoColor=085041)
 ![Vercel](https://img.shields.io/badge/Vercel-F1EFE8?style=flat&logo=vercel&logoColor=2C2C2A)
 
----
 
 ![](./profile-summary-card-output/prussian/0-profile-details.svg)
-
----
-
-### // beyond the terminal
-
-| 📷 Photography | 🎨 Art | 🏀 Sports |
-|---|---|---|
-| @gophotosocal | The other kind of rendering | LA born and bred |
-
----
-
-### // currently
-
-Aiming to build both my knowledge and side projects using Claude :)
 
 
 <!---
